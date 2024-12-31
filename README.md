@@ -5,8 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
+<p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
@@ -22,10 +21,16 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## ✨ Características
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- 📦 **TypeScript** - Construido con TypeScript para una mejor experiencia de desarrollo
+- 🛠️ **Arquitectura Modular** - Sistema flexible de módulos para mejor organización del código
+- 🔒 **Listo para Empresa** - Soporte incorporado para autenticación, autorización y más
+- 🚦 **REST** - Soporte para APIs REST
+- 📊 **Agnóstico de Base de Datos** - Funciona con cualquier base de datos a través de Prisma
+- 🔄 **Microservicios** - Soporte incorporado para arquitectura de microservicios
 
+  
 ## Project setup
 
 ```bash
